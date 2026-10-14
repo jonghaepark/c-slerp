@@ -3,7 +3,7 @@ This repository provides the official implementation of **C-Slerp**. For more de
 
 ## Running the experiments
 
-Our implementation builds on existing benchmark codebases. The locomotion tasks are based on JaxGCRL (Bortkiewicz et al., 2025). The manipulation tasks are based on BuilderBench (Ghugare et al., 2026) and its direct-force variant (Yan et al., 2026).
+Our implementation builds on existing benchmark codebases. The locomotion tasks are based on JaxGCRL (Bortkiewicz et al., 2025). The manipulation tasks are based on BuilderBench (Ghugare et al., 2026) and its direct-force variant (Yan et al., 2026). 
 
 - JaxGCRL: [arXiv:2408.11052](https://arxiv.org/pdf/2408.11052), [code](https://github.com/michalbortkiewicz/jaxgcrl)
 - BuilderBench: [arXiv:2510.06288](https://arxiv.org/abs/2510.06288), [code](https://github.com/rajghugare19/builderbench); direct-force variant: [OpenReview](https://openreview.net/forum?id=knI0KISsbw), [code](https://github.com/David-Yan1/builderbench)
