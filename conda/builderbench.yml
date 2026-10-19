@@ -1,0 +1,22 @@
+name: builderbench
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - jax[cuda12]==0.10.0
+    - mujoco==3.7.0
+    - mujoco-mjx[warp]==3.7.0
+    - mujoco-warp==3.7.0
+    - warp-lang==1.12.0
+    - flax==0.12.7
+    - optax==0.2.8
+    - distrax==0.1.8
+    - etils==1.14.0
+    - ml-collections==1.1.0
+    - tyro==1.0.13
+    - wandb==0.26.0
+    - wandb-osh==1.2.2
+    - matplotlib
+    - pillow
