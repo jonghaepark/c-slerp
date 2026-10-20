@@ -1,5 +1,5 @@
 # Hyperspherical Contrastive Representations Unlock Planning and Exploration
-This repository provides the official implementation of **C-Slerp**. For more details, please refer to the [project page](https://jonghaepark.github.io/c-slerp/).
+This repository provides the official implementation of **C-Slerp**. For more details, please refer to the [project page](https://jonghaepark.github.io/c-slerp/). 
 
 ## Running the experiments
 
